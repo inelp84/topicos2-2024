@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+motor
+pytest
+httpx
+pytest-asyncio
+aioredis
+tensorflow
+networkx
+scikit-learn
